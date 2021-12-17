@@ -608,3 +608,19 @@ Missing reference in C:\repos\nus-cs2103\cs2103-website-base\admin\index.md
 2021-12-12T15:37:42.371Z - info: Press CTRL+C to stop ...
 2021-12-12T15:56:33.174Z - info: Website generation started at 11:56:31 pm
 2021-12-12T15:56:38.728Z - info: Building assets...
+2021-12-12T15:56:44.378Z - info: Assets built
+2021-12-12T15:56:44.378Z - info: Generating pages...
+2021-12-12T15:56:52.341Z - debug:  
+2021-12-12T15:56:52.342Z - debug:  
+2021-12-12T15:56:52.342Z - debug:  
+2021-12-12T15:56:52.343Z - debug:  
+2021-12-12T15:56:52.343Z - debug:  
+2021-12-12T15:56:52.398Z - debug:  
+2021-12-12T15:58:37.557Z - debug:  
+2021-12-12T15:58:51.506Z - debug:  
+2021-12-12T15:58:51.507Z - debug:  
+2021-12-12T15:58:56.895Z - info: Pages built
+2021-12-12T15:58:57.714Z - info: Site data built
+2021-12-12T15:58:57.714Z - info: Website generation complete! Total build time: 146.47s
+2021-12-12T15:58:57.714Z - info: Build success!
+2021-12-12T15:59:10.030Z - info: Deployed at https://nus-cs2113-ay2122s2.github.io/website!
