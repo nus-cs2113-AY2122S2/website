@@ -23,7 +23,7 @@ with(this){return _c('div',[_c('h4',{attrs:{"id":"what"}},[_c('span',{staticClas
 with(this){return _c('p',[_v("The basic UML notations used to represent a "),_c('em',[_v("class")]),_v(":"),_c('br')])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_c('strong',[_v("The 'Operations' compartment and/or the 'Attributes' compartment may be omitted")]),_v(" if such details are not important for the task at hand. 'Attributes' always appear above the 'Operations' compartment. All operations should be in one compartment rather than each operation in a separate compartment. Same goes for attributes.")])}
+with(this){return _c('p',[_c('strong',[_v("The 'Operations' compartment and/or the 'Attributes' compartment may be omitted")]),_v(" if such details are not important for the task at hand. Similarly, "),_c('em',[_v("some")]),_v(" attributes/operations can be omitted if not relevant. 'Attributes' always appear above the 'Operations' compartment. All operations should be in one compartment rather than each operation in a separate compartment. Same goes for attributes.")])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("The "),_c('em',[_v("visibility")]),_v(" of attributes and operations is used to indicate the level of access allowed for each attribute or operation.")]),_v(" The types of visibility and their exact meanings depend on the programming language used. Here are some common visibilities and how they are indicated in a class diagram:")])}
@@ -35,6 +35,6 @@ with(this){return _c('ul',[_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inl
 with(this){return _c('p',[_c('strong',[_v("Generic classes can be shown as given below")]),_v(". The notation format is shown on the left, followed by two examples.")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Fri, 17 Dec 2021, 20:48:56 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Sun, 26 Dec 2021, 1:40:22 GMT+8]")])])])}
 }];
   

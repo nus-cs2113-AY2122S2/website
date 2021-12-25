@@ -1,0 +1,361 @@
+2021-12-25T16:02:31.586Z - info: [12:02:31 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\uml\classDiagrams\classes\what\text.md
+2021-12-25T16:02:31.599Z - info: Synchronizing opened pages list before reload
+2021-12-25T16:02:31.600Z - info: Current opened pages, from most-to-least recent:
+2021-12-25T16:02:31.601Z - info: 1. se-book-adapted/chapters/uml
+2021-12-25T16:02:32.621Z - info: Rebuilding 1 pages
+2021-12-25T16:02:34.775Z - info: Site data built
+2021-12-25T16:02:34.776Z - info: Pages rebuilt
+2021-12-25T16:02:34.776Z - info: Website regeneration complete! Total build time: 2.156s
+2021-12-25T16:02:36.652Z - debug:  
+2021-12-25T16:02:36.666Z - debug:  
+2021-12-25T16:02:36.681Z - debug:  
+2021-12-25T16:02:36.701Z - debug:  
+2021-12-25T16:11:12.188Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\chapters\oop as some of its dependencies were changed since the last visit
+2021-12-25T16:11:14.161Z - info: Site data built
+2021-12-25T16:11:14.161Z - info: Lazy website regeneration complete! Total build time: 1.974s
+2021-12-25T16:11:16.215Z - debug:  
+2021-12-25T16:16:25.959Z - info: [12:16:25 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\oop\associations\navigability\text.md
+2021-12-25T16:16:25.960Z - info: Synchronizing opened pages list before reload
+2021-12-25T16:16:25.960Z - info: Current opened pages, from most-to-least recent:
+2021-12-25T16:16:25.961Z - info: 1. se-book-adapted/chapters/oop
+2021-12-25T16:16:26.972Z - info: Rebuilding 1 pages
+2021-12-25T16:16:28.544Z - info: Site data built
+2021-12-25T16:16:28.544Z - info: Pages rebuilt
+2021-12-25T16:16:28.544Z - info: Website regeneration complete! Total build time: 1.573s
+2021-12-25T16:16:31.118Z - debug:  
+2021-12-25T16:22:17.950Z - info: [12:22:17 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\oop\associations\navigability\text.md
+2021-12-25T16:22:17.950Z - info: Synchronizing opened pages list before reload
+2021-12-25T16:22:17.951Z - info: Current opened pages, from most-to-least recent:
+2021-12-25T16:22:17.951Z - info: 1. se-book-adapted/chapters/oop
+2021-12-25T16:22:18.965Z - info: Rebuilding 1 pages
+2021-12-25T16:22:20.343Z - info: Site data built
+2021-12-25T16:22:20.343Z - info: Pages rebuilt
+2021-12-25T16:22:20.344Z - info: Website regeneration complete! Total build time: 1.381s
+2021-12-25T16:22:21.834Z - debug:  
+2021-12-25T16:24:59.466Z - info: [12:24:59 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\oop\associations\navigability\text.md
+2021-12-25T16:24:59.467Z - info: Synchronizing opened pages list before reload
+2021-12-25T16:24:59.467Z - info: Current opened pages, from most-to-least recent:
+2021-12-25T16:24:59.467Z - info: 1. se-book-adapted/chapters/oop
+2021-12-25T16:25:00.491Z - info: Rebuilding 1 pages
+2021-12-25T16:25:01.832Z - info: Site data built
+2021-12-25T16:25:01.833Z - info: Pages rebuilt
+2021-12-25T16:25:01.833Z - info: Website regeneration complete! Total build time: 1.345s
+2021-12-25T16:25:03.422Z - debug:  
+2021-12-25T16:29:08.734Z - info: [12:29:08 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\oop\associations\navigability\text.md
+2021-12-25T16:29:08.735Z - info: Synchronizing opened pages list before reload
+2021-12-25T16:29:08.735Z - info: Current opened pages, from most-to-least recent:
+2021-12-25T16:29:08.735Z - info: 1. se-book-adapted/chapters/oop
+2021-12-25T16:29:09.745Z - info: Rebuilding 1 pages
+2021-12-25T16:29:10.953Z - info: Site data built
+2021-12-25T16:29:10.953Z - info: Pages rebuilt
+2021-12-25T16:29:10.953Z - info: Website regeneration complete! Total build time: 1.213s
+2021-12-25T16:29:12.288Z - debug:  
+2021-12-25T16:29:23.558Z - info: [12:29:23 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\oop\associations\navigability\text.md
+2021-12-25T16:29:23.559Z - info: Synchronizing opened pages list before reload
+2021-12-25T16:29:23.559Z - info: Current opened pages, from most-to-least recent:
+2021-12-25T16:29:23.559Z - info: 1. se-book-adapted/chapters/oop
+2021-12-25T16:29:24.560Z - info: Rebuilding 1 pages
+2021-12-25T16:29:25.467Z - info: Site data built
+2021-12-25T16:29:25.468Z - info: Pages rebuilt
+2021-12-25T16:29:25.468Z - info: Website regeneration complete! Total build time: 0.909s
+2021-12-25T16:29:26.943Z - debug:  
+2021-12-25T16:31:32.736Z - info: [12:31:32 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\oop\associations\navigability\text.md
+2021-12-25T16:31:32.736Z - info: Synchronizing opened pages list before reload
+2021-12-25T16:31:32.736Z - info: Current opened pages, from most-to-least recent:
+2021-12-25T16:31:32.737Z - info: 1. se-book-adapted/chapters/oop
+2021-12-25T16:31:33.757Z - info: Rebuilding 1 pages
+2021-12-25T16:31:35.015Z - info: Site data built
+2021-12-25T16:31:35.015Z - info: Pages rebuilt
+2021-12-25T16:31:35.015Z - info: Website regeneration complete! Total build time: 1.261s
+2021-12-25T16:31:36.446Z - debug:  
+2021-12-25T16:31:41.989Z - info: [12:31:41 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\oop\associations\navigability\text.md
+2021-12-25T16:31:41.989Z - info: Synchronizing opened pages list before reload
+2021-12-25T16:31:41.989Z - info: Current opened pages, from most-to-least recent:
+2021-12-25T16:31:41.989Z - info: 1. se-book-adapted/chapters/oop
+2021-12-25T16:31:43.006Z - info: Rebuilding 1 pages
+2021-12-25T16:31:44.061Z - info: Site data built
+2021-12-25T16:31:44.061Z - info: Pages rebuilt
+2021-12-25T16:31:44.061Z - info: Website regeneration complete! Total build time: 1.056s
+2021-12-25T16:31:45.595Z - debug:  
+2021-12-25T16:33:33.821Z - info: [12:33:33 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\oop\associations\navigability\text.md
+2021-12-25T16:33:33.821Z - info: Synchronizing opened pages list before reload
+2021-12-25T16:33:33.822Z - info: Current opened pages, from most-to-least recent:
+2021-12-25T16:33:33.822Z - info: 1. se-book-adapted/chapters/oop
+2021-12-25T16:33:34.841Z - info: Rebuilding 1 pages
+2021-12-25T16:33:36.465Z - info: Site data built
+2021-12-25T16:33:36.466Z - info: Pages rebuilt
+2021-12-25T16:33:36.466Z - info: Website regeneration complete! Total build time: 1.626s
+2021-12-25T16:33:38.005Z - debug:  
+2021-12-25T16:33:58.540Z - info: [12:33:58 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\oop\associations\navigability\text.md
+2021-12-25T16:33:58.541Z - info: Synchronizing opened pages list before reload
+2021-12-25T16:33:58.541Z - info: Current opened pages, from most-to-least recent:
+2021-12-25T16:33:58.542Z - info: 1. se-book-adapted/chapters/oop
+2021-12-25T16:33:59.549Z - info: Rebuilding 1 pages
+2021-12-25T16:34:01.108Z - info: Site data built
+2021-12-25T16:34:01.109Z - info: Pages rebuilt
+2021-12-25T16:34:01.109Z - info: Website regeneration complete! Total build time: 1.561s
+2021-12-25T16:34:02.793Z - debug:  
+2021-12-25T16:34:15.648Z - info: [12:34:15 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\oop\associations\navigability\text.md
+2021-12-25T16:34:15.648Z - info: Synchronizing opened pages list before reload
+2021-12-25T16:34:15.648Z - info: Current opened pages, from most-to-least recent:
+2021-12-25T16:34:15.648Z - info: 1. se-book-adapted/chapters/oop
+2021-12-25T16:34:16.654Z - info: Rebuilding 1 pages
+2021-12-25T16:34:17.893Z - info: Site data built
+2021-12-25T16:34:17.894Z - info: Pages rebuilt
+2021-12-25T16:34:17.894Z - info: Website regeneration complete! Total build time: 1.24s
+2021-12-25T16:34:19.533Z - debug:  
+2021-12-25T16:48:44.240Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\chapters\cppToJava as some of its dependencies were changed since the last visit
+2021-12-25T16:48:48.977Z - info: Site data built
+2021-12-25T16:48:48.977Z - info: Lazy website regeneration complete! Total build time: 4.738s
+2021-12-25T16:52:19.174Z - info: [12:52:19 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\misc\casting\text.md
+2021-12-25T16:52:19.174Z - info: Synchronizing opened pages list before reload
+2021-12-25T16:52:19.175Z - info: Current opened pages, from most-to-least recent:
+2021-12-25T16:52:19.175Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-12-25T16:52:20.182Z - info: Rebuilding 1 pages
+2021-12-25T16:52:22.498Z - info: Site data built
+2021-12-25T16:52:22.498Z - info: Pages rebuilt
+2021-12-25T16:52:22.498Z - info: Website regeneration complete! Total build time: 2.317s
+2021-12-25T16:52:37.352Z - info: [12:52:37 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\misc\casting\text.md
+2021-12-25T16:52:37.352Z - info: Synchronizing opened pages list before reload
+2021-12-25T16:52:37.352Z - info: Current opened pages, from most-to-least recent:
+2021-12-25T16:52:37.353Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-12-25T16:52:38.363Z - info: Rebuilding 1 pages
+2021-12-25T16:52:40.205Z - info: Site data built
+2021-12-25T16:52:40.206Z - info: Pages rebuilt
+2021-12-25T16:52:40.206Z - info: Website regeneration complete! Total build time: 1.845s
+2021-12-25T16:53:28.551Z - info: [12:53:28 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\misc\casting\text.md
+2021-12-25T16:53:28.552Z - info: Synchronizing opened pages list before reload
+2021-12-25T16:53:28.552Z - info: Current opened pages, from most-to-least recent:
+2021-12-25T16:53:28.552Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-12-25T16:53:29.560Z - info: Rebuilding 1 pages
+2021-12-25T16:53:32.055Z - info: Site data built
+2021-12-25T16:53:32.056Z - info: Pages rebuilt
+2021-12-25T16:53:32.056Z - info: Website regeneration complete! Total build time: 2.497s
+2021-12-25T16:58:13.924Z - info: [12:58:13 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\misc\casting\text.md
+2021-12-25T16:58:13.925Z - info: Synchronizing opened pages list before reload
+2021-12-25T16:58:13.926Z - info: Current opened pages, from most-to-least recent:
+2021-12-25T16:58:13.927Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-12-25T16:58:14.938Z - info: Rebuilding 1 pages
+2021-12-25T16:58:17.877Z - info: Site data built
+2021-12-25T16:58:17.877Z - info: Pages rebuilt
+2021-12-25T16:58:17.878Z - info: Website regeneration complete! Total build time: 2.94s
+2021-12-25T16:58:43.443Z - info: [12:58:43 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\misc\casting\text.md
+2021-12-25T16:58:43.443Z - info: Synchronizing opened pages list before reload
+2021-12-25T16:58:43.444Z - info: Current opened pages, from most-to-least recent:
+2021-12-25T16:58:43.444Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-12-25T16:58:44.451Z - info: Rebuilding 1 pages
+2021-12-25T16:58:47.392Z - info: Site data built
+2021-12-25T16:58:47.392Z - info: Pages rebuilt
+2021-12-25T16:58:47.393Z - info: Website regeneration complete! Total build time: 2.943s
+2021-12-25T17:00:34.281Z - info: [1:00:34 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\misc\casting\text.md
+2021-12-25T17:00:34.281Z - info: Synchronizing opened pages list before reload
+2021-12-25T17:00:34.281Z - info: Current opened pages, from most-to-least recent:
+2021-12-25T17:00:34.281Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-12-25T17:00:35.298Z - info: Rebuilding 1 pages
+2021-12-25T17:00:38.033Z - info: Site data built
+2021-12-25T17:00:38.033Z - info: Pages rebuilt
+2021-12-25T17:00:38.033Z - info: Website regeneration complete! Total build time: 2.738s
+2021-12-25T17:01:03.165Z - info: [1:01:03 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\misc\casting\text.md
+2021-12-25T17:01:03.165Z - info: Synchronizing opened pages list before reload
+2021-12-25T17:01:03.166Z - info: Current opened pages, from most-to-least recent:
+2021-12-25T17:01:03.166Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-12-25T17:01:04.184Z - info: Rebuilding 1 pages
+2021-12-25T17:01:06.839Z - info: Site data built
+2021-12-25T17:01:06.839Z - info: Pages rebuilt
+2021-12-25T17:01:06.839Z - info: Website regeneration complete! Total build time: 2.656s
+2021-12-25T17:01:18.970Z - info: [1:01:18 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\misc\casting\text.md
+2021-12-25T17:01:18.970Z - info: Synchronizing opened pages list before reload
+2021-12-25T17:01:18.970Z - info: Current opened pages, from most-to-least recent:
+2021-12-25T17:01:18.970Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-12-25T17:01:19.983Z - info: Rebuilding 1 pages
+2021-12-25T17:01:22.391Z - info: Site data built
+2021-12-25T17:01:22.391Z - info: Pages rebuilt
+2021-12-25T17:01:22.391Z - info: Website regeneration complete! Total build time: 2.409s
+2021-12-25T17:04:55.562Z - info: [1:04:55 am] Reload for file deletion: C:\repos\nus-cs2103\cs2103-website-base\book\diagrams\uml\sequenceDiagrams\basicNotation\~$notation.pptx
+2021-12-25T17:04:55.562Z - info: Synchronizing opened pages list before reload
+2021-12-25T17:04:55.562Z - info: Current opened pages, from most-to-least recent:
+2021-12-25T17:04:55.562Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-12-25T17:04:59.011Z - debug: Assets removed
+2021-12-25T17:22:55.180Z - info: [1:22:55 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\codeQuality\followStandard\basic\q-listViolations.md
+2021-12-25T17:22:55.180Z - info: Synchronizing opened pages list before reload
+2021-12-25T17:22:55.180Z - info: Current opened pages, from most-to-least recent:
+2021-12-25T17:22:55.180Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-12-25T17:22:55.202Z - info: [1:22:55 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\common\definitions.md
+2021-12-25T17:22:55.202Z - info: Synchronizing opened pages list before reload
+2021-12-25T17:22:55.202Z - info: Current opened pages, from most-to-least recent:
+2021-12-25T17:22:55.202Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-12-25T17:22:55.211Z - info: [1:22:55 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\gettingStarted\running\q-byeWorld.md
+2021-12-25T17:22:55.211Z - info: Synchronizing opened pages list before reload
+2021-12-25T17:22:55.211Z - info: Current opened pages, from most-to-least recent:
+2021-12-25T17:22:55.211Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-12-25T17:22:55.224Z - info: [1:22:55 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\gettingStarted\running\q-runHelloWorld.md
+2021-12-25T17:22:55.224Z - info: Synchronizing opened pages list before reload
+2021-12-25T17:22:55.224Z - info: Current opened pages, from most-to-least recent:
+2021-12-25T17:22:55.224Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-12-25T17:22:55.239Z - info: [1:22:55 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\inheritance\basic\text.md
+2021-12-25T17:22:55.239Z - info: Synchronizing opened pages list before reload
+2021-12-25T17:22:55.239Z - info: Current opened pages, from most-to-least recent:
+2021-12-25T17:22:55.239Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-12-25T17:22:55.242Z - info: [1:22:55 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\misc\casting\text.md
+2021-12-25T17:22:55.242Z - info: Synchronizing opened pages list before reload
+2021-12-25T17:22:55.242Z - info: Current opened pages, from most-to-least recent:
+2021-12-25T17:22:55.242Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-12-25T17:22:55.260Z - info: [1:22:55 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\usefulClasses\arraysClass\q-filterEmailsMethod.md
+2021-12-25T17:22:55.260Z - info: Synchronizing opened pages list before reload
+2021-12-25T17:22:55.260Z - info: Current opened pages, from most-to-least recent:
+2021-12-25T17:22:55.260Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-12-25T17:22:55.264Z - info: [1:22:55 am] Reload for file deletion: C:\repos\nus-cs2103\cs2103-website-base\book\designPatterns\more\combiningDesignPatterns\q-essay-getNotified.md
+2021-12-25T17:22:55.264Z - info: Synchronizing opened pages list before reload
+2021-12-25T17:22:55.264Z - info: Current opened pages, from most-to-least recent:
+2021-12-25T17:22:55.264Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-12-25T17:22:58.101Z - info: Rebuilding 1 pages
+2021-12-25T17:22:59.267Z - info: Assets built
+2021-12-25T17:23:00.534Z - info: [1:23:00 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\diagrams\uml\sequenceDiagrams\basicNotation\notation.pptx
+2021-12-25T17:23:00.534Z - info: Synchronizing opened pages list before reload
+2021-12-25T17:23:00.534Z - info: Current opened pages, from most-to-least recent:
+2021-12-25T17:23:00.534Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-12-25T17:23:00.535Z - info: [1:23:00 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\intellij\productivityShortcuts\text.md
+2021-12-25T17:23:00.535Z - info: Synchronizing opened pages list before reload
+2021-12-25T17:23:00.535Z - info: Current opened pages, from most-to-least recent:
+2021-12-25T17:23:00.535Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-12-25T17:23:00.536Z - info: [1:23:00 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\modeling\modelingBehaviors\sequenceDiagramsBasic\text.md
+2021-12-25T17:23:00.536Z - info: Synchronizing opened pages list before reload
+2021-12-25T17:23:00.536Z - info: Current opened pages, from most-to-least recent:
+2021-12-25T17:23:00.536Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-12-25T17:23:00.536Z - info: [1:23:00 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\modeling\modelingBehaviors\stateMachineDiagrams\text.md
+2021-12-25T17:23:00.536Z - info: Synchronizing opened pages list before reload
+2021-12-25T17:23:00.537Z - info: Current opened pages, from most-to-least recent:
+2021-12-25T17:23:00.537Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-12-25T17:23:00.537Z - info: [1:23:00 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\modeling\modelingBehaviors\useCaseDiagrams\text.md
+2021-12-25T17:23:00.537Z - info: Synchronizing opened pages list before reload
+2021-12-25T17:23:00.537Z - info: Current opened pages, from most-to-least recent:
+2021-12-25T17:23:00.537Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-12-25T17:23:00.537Z - info: [1:23:00 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\modeling\modelingStructures\classDiagramsIntermediate\q-drawClassDiagramForItemEtc.md
+2021-12-25T17:23:00.538Z - info: Synchronizing opened pages list before reload
+2021-12-25T17:23:00.538Z - info: Current opened pages, from most-to-least recent:
+2021-12-25T17:23:00.538Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-12-25T17:23:00.538Z - info: [1:23:00 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\oop\associations\associationClasses\text.md
+2021-12-25T17:23:00.538Z - info: Synchronizing opened pages list before reload
+2021-12-25T17:23:00.538Z - info: Current opened pages, from most-to-least recent:
+2021-12-25T17:23:00.538Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-12-25T17:23:00.539Z - info: [1:23:00 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\oop\associations\navigability\text.md
+2021-12-25T17:23:00.539Z - info: Synchronizing opened pages list before reload
+2021-12-25T17:23:00.539Z - info: Current opened pages, from most-to-least recent:
+2021-12-25T17:23:00.539Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-12-25T17:23:00.539Z - info: [1:23:00 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\projectDuke\extensions.mbdf
+2021-12-25T17:23:00.539Z - info: Synchronizing opened pages list before reload
+2021-12-25T17:23:00.539Z - info: Current opened pages, from most-to-least recent:
+2021-12-25T17:23:00.539Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-12-25T17:23:00.540Z - info: [1:23:00 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\specifyingRequirements\useCases\details\inclusions.md
+2021-12-25T17:23:00.540Z - info: Synchronizing opened pages list before reload
+2021-12-25T17:23:00.540Z - info: Current opened pages, from most-to-least recent:
+2021-12-25T17:23:00.540Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-12-25T17:23:00.541Z - info: [1:23:00 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\specifyingRequirements\userStories\usage\text.md
+2021-12-25T17:23:00.541Z - info: Synchronizing opened pages list before reload
+2021-12-25T17:23:00.541Z - info: Current opened pages, from most-to-least recent:
+2021-12-25T17:23:00.541Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-12-25T17:23:00.542Z - info: [1:23:00 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\testCaseDesign\combiningTestInputs\heuristicValid\text.md
+2021-12-25T17:23:00.542Z - info: Synchronizing opened pages list before reload
+2021-12-25T17:23:00.542Z - info: Current opened pages, from most-to-least recent:
+2021-12-25T17:23:00.542Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-12-25T17:23:00.542Z - info: [1:23:00 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\testCaseDesign\combiningTestInputs\mix\text.md
+2021-12-25T17:23:00.542Z - info: Synchronizing opened pages list before reload
+2021-12-25T17:23:00.543Z - info: Current opened pages, from most-to-least recent:
+2021-12-25T17:23:00.543Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-12-25T17:23:00.543Z - info: [1:23:00 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\testing\testCoverage\how\text.md
+2021-12-25T17:23:00.543Z - info: Synchronizing opened pages list before reload
+2021-12-25T17:23:00.543Z - info: Current opened pages, from most-to-least recent:
+2021-12-25T17:23:00.543Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-12-25T17:23:00.543Z - info: [1:23:00 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\testing\testCoverage\what\text.md
+2021-12-25T17:23:00.544Z - info: Synchronizing opened pages list before reload
+2021-12-25T17:23:00.544Z - info: Current opened pages, from most-to-least recent:
+2021-12-25T17:23:00.544Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-12-25T17:23:00.544Z - info: [1:23:00 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\testing\testingTypes\unitTesting\what\resources.md
+2021-12-25T17:23:00.544Z - info: Synchronizing opened pages list before reload
+2021-12-25T17:23:00.544Z - info: Current opened pages, from most-to-least recent:
+2021-12-25T17:23:00.544Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-12-25T17:23:00.545Z - info: [1:23:00 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\uml\classDiagrams\classLevelMembers\what\text.md
+2021-12-25T17:23:00.545Z - info: Synchronizing opened pages list before reload
+2021-12-25T17:23:00.545Z - info: Current opened pages, from most-to-least recent:
+2021-12-25T17:23:00.545Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-12-25T17:23:00.545Z - info: [1:23:00 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\uml\classDiagrams\classes\what\text.md
+2021-12-25T17:23:00.545Z - info: Synchronizing opened pages list before reload
+2021-12-25T17:23:00.546Z - info: Current opened pages, from most-to-least recent:
+2021-12-25T17:23:00.546Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-12-25T17:23:00.546Z - info: [1:23:00 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\uml\classDiagrams\combine\basic\q-essay-objectDiagramsForClassDiagram.md
+2021-12-25T17:23:00.546Z - info: Synchronizing opened pages list before reload
+2021-12-25T17:23:00.546Z - info: Current opened pages, from most-to-least recent:
+2021-12-25T17:23:00.546Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-12-25T17:23:00.547Z - info: [1:23:00 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\uml\sequenceDiagrams\basic\images\notation.png
+2021-12-25T17:23:00.547Z - info: Synchronizing opened pages list before reload
+2021-12-25T17:23:00.547Z - info: Current opened pages, from most-to-least recent:
+2021-12-25T17:23:00.547Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-12-25T17:23:00.548Z - info: [1:23:00 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\uml\sequenceDiagrams\minimalNotation\text.md
+2021-12-25T17:23:00.548Z - info: Synchronizing opened pages list before reload
+2021-12-25T17:23:00.548Z - info: Current opened pages, from most-to-least recent:
+2021-12-25T17:23:00.548Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-12-25T17:23:00.553Z - debug: Assets removed
+2021-12-25T17:23:00.662Z - info: [1:23:00 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\modeling\modelingStructures\classDiagramsIntermediate\q-tick-statementMismatch.md
+2021-12-25T17:23:00.662Z - info: Synchronizing opened pages list before reload
+2021-12-25T17:23:00.663Z - info: Current opened pages, from most-to-least recent:
+2021-12-25T17:23:00.663Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-12-25T17:23:00.663Z - info: [1:23:00 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\projectDuke\text.md
+2021-12-25T17:23:00.664Z - info: Synchronizing opened pages list before reload
+2021-12-25T17:23:00.664Z - info: Current opened pages, from most-to-least recent:
+2021-12-25T17:23:00.664Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-12-25T17:23:00.664Z - info: [1:23:00 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\specifyingRequirements\useCases\details\useCaseSteps.md
+2021-12-25T17:23:00.664Z - info: Synchronizing opened pages list before reload
+2021-12-25T17:23:00.664Z - info: Current opened pages, from most-to-least recent:
+2021-12-25T17:23:00.664Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-12-25T17:23:00.665Z - info: [1:23:00 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\uml\sequenceDiagrams\basic\text.md
+2021-12-25T17:23:00.665Z - info: Synchronizing opened pages list before reload
+2021-12-25T17:23:00.665Z - info: Current opened pages, from most-to-least recent:
+2021-12-25T17:23:00.665Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-12-25T17:23:00.672Z - info: [1:23:00 am] Reload for file add: C:\repos\nus-cs2103\cs2103-website-base\book\designPatterns\more\combiningDesignPatterns\q-essay-getNotified.md
+2021-12-25T17:23:00.672Z - info: Synchronizing opened pages list before reload
+2021-12-25T17:23:00.673Z - info: Current opened pages, from most-to-least recent:
+2021-12-25T17:23:00.673Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-12-25T17:23:02.870Z - info: Assets built
+2021-12-25T17:23:02.890Z - info: Site data built
+2021-12-25T17:23:02.890Z - info: Pages rebuilt
+2021-12-25T17:23:02.890Z - info: Website regeneration complete! Total build time: 4.79s
+2021-12-25T17:23:02.893Z - info: No pages needed to be rebuilt
+2021-12-25T17:23:05.188Z - info: [1:23:05 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\misc\casting\text.md
+2021-12-25T17:23:05.188Z - info: Synchronizing opened pages list before reload
+2021-12-25T17:23:05.189Z - info: No pages are currently opened
+2021-12-25T17:23:05.214Z - info: [1:23:05 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\diagrams\uml\sequenceDiagrams\basicNotation\notation.pptx
+2021-12-25T17:23:05.214Z - info: Synchronizing opened pages list before reload
+2021-12-25T17:23:05.215Z - info: No pages are currently opened
+2021-12-25T17:23:05.255Z - info: [1:23:05 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\oop\associations\navigability\text.md
+2021-12-25T17:23:05.255Z - info: Synchronizing opened pages list before reload
+2021-12-25T17:23:05.255Z - info: No pages are currently opened
+2021-12-25T17:23:05.273Z - info: [1:23:05 am] Reload for file deletion: C:\repos\nus-cs2103\cs2103-website-base\book\uml\classDiagrams\classes\what\text.md
+2021-12-25T17:23:05.273Z - info: Synchronizing opened pages list before reload
+2021-12-25T17:23:05.273Z - info: No pages are currently opened
+2021-12-25T17:23:08.701Z - info: [1:23:08 am] Reload for file deletion: C:\repos\nus-cs2103\cs2103-website-base\book\uml\sequenceDiagrams\basic\images\notation.png
+2021-12-25T17:23:08.701Z - info: Synchronizing opened pages list before reload
+2021-12-25T17:23:08.701Z - info: No pages are currently opened
+2021-12-25T17:23:08.702Z - info: No pages needed to be rebuilt
+2021-12-25T17:23:08.704Z - info: [1:23:08 am] Reload for file add: C:\repos\nus-cs2103\cs2103-website-base\book\uml\classDiagrams\classes\what\text.md
+2021-12-25T17:23:08.704Z - info: Synchronizing opened pages list before reload
+2021-12-25T17:23:08.704Z - info: No pages are currently opened
+2021-12-25T17:30:50.891Z - info: Website generation started at 1:30:48 am
+2021-12-25T17:30:56.881Z - info: Building assets...
+2021-12-25T17:31:02.246Z - info: Assets built
+2021-12-25T17:31:02.247Z - info: Generating pages...
+2021-12-25T17:31:12.048Z - debug:  
+2021-12-25T17:31:12.051Z - debug:  
+2021-12-25T17:31:12.051Z - debug:  
+2021-12-25T17:31:14.656Z - debug:  
+2021-12-25T17:31:14.656Z - debug:  
+2021-12-25T17:31:14.657Z - debug:  
+2021-12-25T17:33:18.304Z - debug:  
+2021-12-25T17:33:31.420Z - debug:  
+2021-12-25T17:33:32.498Z - debug:  
+2021-12-25T17:33:39.886Z - info: Pages built
+2021-12-25T17:33:40.925Z - info: Site data built
+2021-12-25T17:33:40.925Z - info: Website generation complete! Total build time: 172.272s
+2021-12-25T17:33:40.926Z - info: Build success!
+2021-12-25T17:33:54.153Z - info: Deployed at https://nus-cs2103-ay2122s2.github.io/website!
+2021-12-25T17:40:10.837Z - info: Website generation started at 1:40:05 am
+2021-12-25T17:40:17.098Z - info: Building assets...

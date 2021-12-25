@@ -29,9 +29,9 @@ with(this){return _c('span',{staticClass:"badge badge-secondary font-weight-norm
 with(this){return _c('span',[_c('span',{staticClass:"fab fa-product-hunt",attrs:{"aria-hidden":"true"}})])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_v("Submission will open on the day after the final submission (Mon, Nov 9th)."),_c('br'),_c('span',[_c('span',{staticClass:"badge badge-pill badge-warning"},[_c('span',{staticClass:"fas fa-lightbulb",attrs:{"aria-hidden":"true"}})]),_v(" If you did not receive the submission link, you can get TEAMMATES to resend the link by going to "),_c('a',{attrs:{"href":"https://teammatesv4.appspot.com/web/front/help/session-links-recovery"}},[_v("TEAMMATES link recovery page")]),_v("\nand entering your NUSNET email address. Remember to check your spam folder as well.")])])])}
+with(this){return _c('ul',[_c('li',[_v("Submission will open on the day after the final submission (Tue, Apr 12th)."),_c('br'),_c('span',[_c('span',{staticClass:"badge badge-pill badge-warning"},[_c('span',{staticClass:"fas fa-lightbulb",attrs:{"aria-hidden":"true"}})]),_v(" If you did not receive the submission link, you can get TEAMMATES to resend the link by going to "),_c('a',{attrs:{"href":"https://teammatesv4.appspot.com/web/front/help/session-links-recovery"}},[_v("TEAMMATES link recovery page")]),_v("\nand entering your NUSNET email address. Remember to check your spam folder as well.")])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Fri, 17 Dec 2021, 20:48:56 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Sun, 26 Dec 2021, 1:40:22 GMT+8]")])])])}
 }];
   

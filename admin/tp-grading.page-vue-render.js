@@ -113,7 +113,7 @@ with(this){return _c('p',[_c('strong',[_v("Based on:")]),_v(" tutor/grading-scri
 with(this){return _c('p',[_c('strong',[_v("Grading criteria:")])])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_c('p',[_v("Project done iteratively and incrementally "),_c('span',{staticClass:"dimmed"},[_v("(opposite: doing most of the work in one big burst)")])])]),_v(" "),_c('li',[_c('p',[_v("Milestones "),_c('mark',[_v("reached on time (i.e., the midnight before of the tutorial)")]),_v(" (to get a good grade for this aspect, achieve at least 75% of the recommended milestone progress).")])]),_v(" "),_c('li',[_c('p',[_v("Good use of GitHub "),_c('em',[_v("milestones")]),_v(" mechanism.")])]),_v(" "),_c('li',[_c('p',[_v("Good use of GitHub "),_c('em',[_v("releases")]),_v(" mechanism.")])]),_v(" "),_c('li',[_c('p',[_v("Good version control, based on the repo.")])]),_v(" "),_c('li',[_c('p',[_v("Reasonable attempt to use the "),_c('em',[_v("forking workflow")]),_v(" at least for the early part of the project.")])]),_v(" "),_c('li',[_c('p',[_v("Good task definition, assignment and tracking, based on the issue tracker.")])]),_v(" "),_c('li',[_c('p',[_v("Good use of buffers "),_c('span',{staticClass:"dimmed"},[_v("(opposite: everything at the last minute)")]),_v(".")])])])}
+with(this){return _c('ul',[_c('li',[_c('p',[_v("Project done iteratively and incrementally "),_c('span',{staticClass:"dimmed"},[_v("(opposite: doing most of the work in one big burst)")])])]),_v(" "),_c('li',[_c('p',[_v("Project tasks done on time (to get a good grade for this aspect, finish at least 75% of the tasks by the deadline).")])]),_v(" "),_c('li',[_c('p',[_v("Good use of these GitHub mechanisms:")]),_v(" "),_c('ul',[_c('li',[_v("milestones")]),_v(" "),_c('li',[_v("releases")]),_v(" "),_c('li',[_v("issue tracker (with good task definition, assignment, and tracking)")]),_v(" "),_c('li',[_v("PRs, and PR reviews")])])]),_v(" "),_c('li',[_c('p',[_v("Good version control, based on the repo.")])]),_v(" "),_c('li',[_c('p',[_v("Reasonable attempt to use the "),_c('em',[_v("forking workflow")]),_v(" at least for the early part of the project.")])]),_v(" "),_c('li',[_c('p',[_v("Good use of buffers "),_c('span',{staticClass:"dimmed"},[_v("(opposite: everything at the last minute)")]),_v(".")])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Evaluates:")]),_v(" How much you contributed to team-tasks")])}
@@ -122,15 +122,15 @@ with(this){return _c('p',[_c('strong',[_v("Evaluates:")]),_v(" How much you cont
 with(this){return _c('p',[_c('strong',[_v("Based on:")]),_v(" peer evaluations, tutor observations")])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_c('strong',[_v("Grading criteria:")]),_v(" Do these to earn full marks.")])}
+with(this){return _c('p',[_c('strong',[_v("Grading criteria:")]),_v(" Do the following to get a good grade for this aspect:")])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_v("Do close to an equal share of the team tasks (you can earn bonus marks by doing more than an equal share).")]),_v(" "),_c('li',[_v("Have your code merged in at least four of weeks 7, 8, 9, 10, 11, 12")])])}
+with(this){return _c('ul',[_c('li',[_v("Do close to an equal share of the team tasks.")]),_v(" "),_c('li',[_v("Have your code merged in at least four of weeks 7, 8, 9, 10, 11, 12")])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('span',{staticClass:"float-left algolia-no-index"},[_c('a',{staticClass:"badge badge-light",attrs:{"href":"/website/admin/tp-pe.html"}},[_c('span',[_c('span',{staticClass:"far fa-arrow-alt-circle-left",attrs:{"aria-hidden":"true"}}),_v(" tP: Practical Exam")])])]),_c('span',{staticClass:"float-right algolia-no-index"},[_c('a',{staticClass:"badge badge-light",attrs:{"href":"/website/admin/tp-supervision.html"}},[_c('span',[_v("tP: Supervision "),_c('span',{staticClass:"far fa-arrow-alt-circle-right",attrs:{"aria-hidden":"true"}})])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Fri, 17 Dec 2021, 20:48:56 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Sun, 26 Dec 2021, 1:40:22 GMT+8]")])])])}
 }];
   
