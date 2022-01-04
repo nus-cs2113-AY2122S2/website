@@ -7,7 +7,7 @@
 <span id="lectures-s2">
 
 {{ lecture_table_headers | trim }}
-{{ module }}/T | ~~LT19~~ | Friday **1600**-1800
+{{ module }}/T | ~~LT19~~ Zoom | Friday **1600**-1800
 </span>
 
 <span id="tutorials-s1">
