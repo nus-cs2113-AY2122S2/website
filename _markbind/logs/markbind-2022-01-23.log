@@ -1,0 +1,82 @@
+2022-01-23T00:46:29.997Z - info: Website generation (lazy) started at 8:46:24 am
+2022-01-23T00:46:34.322Z - info: Building assets...
+2022-01-23T00:46:38.487Z - info: Assets built
+2022-01-23T00:46:38.488Z - info: Generating landing page...
+2022-01-23T00:46:41.314Z - info: Landing page built, other pages will be built as you navigate to them!
+2022-01-23T00:46:42.897Z - info: Site data built
+2022-01-23T00:46:42.898Z - info: Website generation (lazy) complete! Total build time: 18.726s
+2022-01-23T00:46:44.068Z - info: Serving "D:\Teaching\CS2113\_AY2122S2\website\_site" at http://127.0.0.1:8080
+2022-01-23T00:46:44.068Z - info: Press CTRL+C to stop ...
+2022-01-23T00:47:01.607Z - info: Building D:\Teaching\CS2113\_AY2122S2\website\admin\index as some of its dependencies were changed since the last visit
+2022-01-23T00:47:02.466Z - info: Site data built
+2022-01-23T00:47:02.467Z - info: Lazy website regeneration complete! Total build time: 0.86s
+2022-01-23T00:47:09.703Z - info: Building D:\Teaching\CS2113\_AY2122S2\website\admin\tutorials as some of its dependencies were changed since the last visit
+2022-01-23T00:47:10.064Z - info: Site data built
+2022-01-23T00:47:10.064Z - info: Lazy website regeneration complete! Total build time: 0.363s
+2022-01-23T00:47:54.790Z - info: [8:47:54 am] Reload for file change: D:\Teaching\CS2113\_AY2122S2\website\_module-CS2113\timetables.mbdf
+2022-01-23T00:47:54.791Z - info: Synchronizing opened pages list before reload
+2022-01-23T00:47:54.792Z - info: Current opened pages, from most-to-least recent:
+2022-01-23T00:47:54.793Z - info: 1. admin/tutorials
+2022-01-23T00:47:55.804Z - info: Rebuilding 1 pages
+2022-01-23T00:47:56.415Z - info: Site data built
+2022-01-23T00:47:56.415Z - info: Pages rebuilt
+2022-01-23T00:47:56.415Z - info: Website regeneration complete! Total build time: 0.615s
+2022-01-23T00:48:01.744Z - info: [8:48:01 am] Reload for file change: D:\Teaching\CS2113\_AY2122S2\website\_module-CS2113\timetables.mbdf
+2022-01-23T00:48:01.745Z - info: Synchronizing opened pages list before reload
+2022-01-23T00:48:01.745Z - info: Current opened pages, from most-to-least recent:
+2022-01-23T00:48:01.746Z - info: 1. admin/tutorials
+2022-01-23T00:48:02.765Z - info: Rebuilding 1 pages
+2022-01-23T00:48:03.037Z - info: Site data built
+2022-01-23T00:48:03.038Z - info: Pages rebuilt
+2022-01-23T00:48:03.038Z - info: Website regeneration complete! Total build time: 0.274s
+2022-01-23T00:48:07.379Z - info: [8:48:07 am] Reload for file change: D:\Teaching\CS2113\_AY2122S2\website\_module-CS2113\timetables.mbdf
+2022-01-23T00:48:07.380Z - info: Synchronizing opened pages list before reload
+2022-01-23T00:48:07.382Z - info: Current opened pages, from most-to-least recent:
+2022-01-23T00:48:07.384Z - info: 1. admin/tutorials
+2022-01-23T00:48:08.435Z - info: Rebuilding 1 pages
+2022-01-23T00:48:08.885Z - info: Site data built
+2022-01-23T00:48:08.885Z - info: Pages rebuilt
+2022-01-23T00:48:08.885Z - info: Website regeneration complete! Total build time: 0.468s
+2022-01-23T00:48:14.313Z - info: [8:48:14 am] Reload for file change: D:\Teaching\CS2113\_AY2122S2\website\_module-CS2113\timetables.mbdf
+2022-01-23T00:48:14.314Z - info: Synchronizing opened pages list before reload
+2022-01-23T00:48:14.315Z - info: Current opened pages, from most-to-least recent:
+2022-01-23T00:48:14.316Z - info: 1. admin/tutorials
+2022-01-23T00:48:15.321Z - info: Rebuilding 1 pages
+2022-01-23T00:48:15.544Z - info: Site data built
+2022-01-23T00:48:15.544Z - info: Pages rebuilt
+2022-01-23T00:48:15.544Z - info: Website regeneration complete! Total build time: 0.224s
+2022-01-23T00:48:19.370Z - info: [8:48:19 am] Reload for file change: D:\Teaching\CS2113\_AY2122S2\website\_module-CS2113\timetables.mbdf
+2022-01-23T00:48:19.372Z - info: Synchronizing opened pages list before reload
+2022-01-23T00:48:19.373Z - info: Current opened pages, from most-to-least recent:
+2022-01-23T00:48:19.373Z - info: 1. admin/tutorials
+2022-01-23T00:48:20.378Z - info: Rebuilding 1 pages
+2022-01-23T00:48:20.869Z - info: Site data built
+2022-01-23T00:48:20.870Z - info: Pages rebuilt
+2022-01-23T00:48:20.870Z - info: Website regeneration complete! Total build time: 0.495s
+2022-01-23T00:48:24.926Z - info: [8:48:24 am] Reload for file change: D:\Teaching\CS2113\_AY2122S2\website\_module-CS2113\timetables.mbdf
+2022-01-23T00:48:24.955Z - info: Synchronizing opened pages list before reload
+2022-01-23T00:48:24.981Z - info: Current opened pages, from most-to-least recent:
+2022-01-23T00:48:24.986Z - info: 1. admin/tutorials
+2022-01-23T00:48:25.999Z - info: Rebuilding 1 pages
+2022-01-23T00:48:26.442Z - info: Site data built
+2022-01-23T00:48:26.443Z - info: Pages rebuilt
+2022-01-23T00:48:26.443Z - info: Website regeneration complete! Total build time: 0.448s
+2022-01-23T00:48:30.214Z - info: [8:48:30 am] Reload for file change: D:\Teaching\CS2113\_AY2122S2\website\_module-CS2113\timetables.mbdf
+2022-01-23T00:48:30.214Z - info: Synchronizing opened pages list before reload
+2022-01-23T00:48:30.214Z - info: Current opened pages, from most-to-least recent:
+2022-01-23T00:48:30.215Z - info: 1. admin/tutorials
+2022-01-23T00:48:31.219Z - info: Rebuilding 1 pages
+2022-01-23T00:48:31.481Z - info: Site data built
+2022-01-23T00:48:31.482Z - info: Pages rebuilt
+2022-01-23T00:48:31.482Z - info: Website regeneration complete! Total build time: 0.264s
+2022-01-23T00:52:29.224Z - info: [8:52:29 am] Reload for file change: D:\Teaching\CS2113\_AY2122S2\website\_markbind\variables.md
+2022-01-23T00:52:29.224Z - info: Synchronizing opened pages list before reload
+2022-01-23T00:52:29.225Z - info: Current opened pages, from most-to-least recent:
+2022-01-23T00:52:29.225Z - info: 1. admin/tutorials
+2022-01-23T00:52:30.354Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2022-01-23T00:52:30.358Z - info: Rebuilding 1 pages
+2022-01-23T00:52:30.723Z - info: Site data built
+2022-01-23T00:52:30.724Z - info: Pages rebuilt
+2022-01-23T00:52:30.736Z - info: Website regeneration complete! Total build time: 0.483s
+2022-01-23T00:54:53.754Z - info: Website generation started at 8:54:51 am
+2022-01-23T00:54:57.526Z - info: Building assets...
