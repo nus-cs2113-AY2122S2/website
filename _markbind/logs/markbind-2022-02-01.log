@@ -1,0 +1,14 @@
+2022-02-01T14:58:23.112Z - info: Website generation (lazy) started at 10:58:07 pm
+2022-02-01T14:58:30.998Z - info: Building assets...
+2022-02-01T14:58:36.320Z - info: Assets built
+2022-02-01T14:58:36.322Z - info: Generating landing page...
+2022-02-01T14:58:38.838Z - info: Landing page built, other pages will be built as you navigate to them!
+2022-02-01T14:58:40.619Z - info: Site data built
+2022-02-01T14:58:40.620Z - info: Website generation (lazy) complete! Total build time: 33.251s
+2022-02-01T14:58:41.842Z - info: Serving "D:\Teaching\CS2113\_AY2122S2\website\_site" at http://127.0.0.1:8080
+2022-02-01T14:58:41.843Z - info: Press CTRL+C to stop ...
+2022-02-01T14:58:54.423Z - info: Building D:\Teaching\CS2113\_AY2122S2\website\schedule\week4\tutorial as some of its dependencies were changed since the last visit
+2022-02-01T14:58:55.218Z - info: Site data built
+2022-02-01T14:58:55.218Z - info: Lazy website regeneration complete! Total build time: 0.795s
+2022-02-01T15:00:44.126Z - info: Website generation started at 11:00:40 pm
+2022-02-01T15:00:49.357Z - info: Building assets...
