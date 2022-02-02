@@ -14,6 +14,6 @@ with(this){return _c('h1',{attrs:{"id":"week-1-mon-jan-10th-tutorial"}},[_c('spa
 with(this){return _c('div',[_c('div',[_c('p',[_c('span',[_c('span',{staticClass:"fas fa-info-circle",attrs:{"aria-hidden":"true"}})]),_v(" We use "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("tutorial N")]),_v(" to mean "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("the tutorial in week N")]),_v("."),_c('br')]),_v(" "),_c('p',[_c('strong',[_v("There is no tutorial in week 1.")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.1.0")]),_v(", generated on Wed, 2 Feb 2022, 21:30:41 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.1.0")]),_v(", generated on Wed, 2 Feb 2022, 22:31:28 GMT+8]")])])])}
 }];
   

@@ -37,7 +37,7 @@
 {{ MT | safe }} | ~~COM1-B103~~ Zoom | **T**hu  **09**:00 | ~~%%LC01%%~~ | **`CS2113T-T09`**| Akshay; Stephanie
 {{ MT | safe }} | ~~COM1-B103~~ Zoom | **T**hu  **10**:00 | ~~%%LC03%%~~  | **`CS2113-T10`**| Stephanie; Richard
 {{ M | safe }} | ~~COM1-B103~~ Zoom | **T**hu  **11**:00 | ~~%%T1%%~~  | **`CS2113-T11`**| Shivin; Samantha
-{{ M | safe }} | ~~COM1-B103~~ Zoom | **F**ri  **10**:00 | ~~%%T2%%~~ | **`CS2113T-F10_1`**| Nishanth; Xin Ru
-{{ M | safe }} | ~~COM1-B103~~ Zoom | **F**ri  **10**:00 | ~~%%T3%%~~ | **`CS2113-F10_2`**| Mingqian; Kelvin
+{{ M | safe }} | ~~COM1-B103~~ Zoom | **F**ri  **10**:00 | ~~%%T2%%~~ | **`CS2113T-F10`**| Nishanth; Xin Ru
+{{ M | safe }} | ~~COM1-B103~~ Zoom | **F**ri  **10**:00 | ~~%%T3%%~~ | **`CS2113-F12`**| Mingqian; Kelvin
 
 </span>
