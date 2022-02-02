@@ -144,6 +144,11 @@
       "src": "admin/ip-showcase.md",
       "title": "iP Showcase",
       "headings": {
+        "t09": "T09",
+        "t10": "T10",
+        "t11": "T11",
+        "f10": "F10",
+        "f12": "F12",
         "ip-showcase": "iP Showcase"
       },
       "headingKeywords": {}
@@ -318,7 +323,15 @@
       "src": "admin/teamList.md",
       "title": "tP Teams List",
       "headings": {
-        "tp-teams": "tP Teams"
+        "t09": "T09",
+        "t10": "T10",
+        "t11": "T11",
+        "f10": "F10",
+        "f12": "F12",
+        "tp-teams": "tP Teams",
+        "t09-2": "T09-2    ",
+        "t09-3": "T09-3    ",
+        "t09-4": "T09-4    "
       },
       "headingKeywords": {}
     },
