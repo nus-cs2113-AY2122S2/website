@@ -60,3 +60,19 @@ Please ensure the file exist or is valid
 2022-02-02T13:42:49.917Z - info: The website has been deployed at: https://nus-cs2113-ay2122s2.github.io/website
 2022-02-02T14:31:17.217Z - info: Website generation started at 10:31:10 pm
 2022-02-02T14:31:22.325Z - info: Building assets...
+2022-02-02T14:31:28.567Z - info: Assets built
+2022-02-02T14:31:28.568Z - info: Generating pages...
+2022-02-02T14:31:45.036Z - debug:  
+2022-02-02T14:31:45.036Z - debug:  
+2022-02-02T14:31:45.037Z - debug:  
+2022-02-02T14:31:45.037Z - debug:  
+2022-02-02T14:31:45.037Z - debug:  
+2022-02-02T14:31:45.683Z - debug:  
+2022-02-02T14:34:40.619Z - debug:  
+2022-02-02T14:34:54.306Z - debug:  
+2022-02-02T14:34:54.338Z - debug:  
+2022-02-02T14:34:59.699Z - info: Pages built
+2022-02-02T14:35:01.151Z - info: Site data built
+2022-02-02T14:35:01.151Z - info: Website generation complete! Total build time: 230.615s
+2022-02-02T14:35:01.152Z - info: Build success!
+2022-02-02T14:37:36.153Z - info: The website has been deployed at: https://nus-cs2113-ay2122s2.github.io/website
