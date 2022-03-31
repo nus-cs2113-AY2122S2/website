@@ -1,0 +1,14 @@
+2022-03-31T16:38:54.351Z - info: Website generation (lazy) started at 12:38:52 am
+2022-03-31T16:38:58.370Z - info: Building assets...
+2022-03-31T16:39:02.985Z - info: Assets built
+2022-03-31T16:39:02.986Z - info: Generating landing page...
+2022-03-31T16:39:04.435Z - info: Landing page built, other pages will be built as you navigate to them!
+2022-03-31T16:39:05.608Z - info: Site data built
+2022-03-31T16:39:05.609Z - info: Website generation (lazy) complete! Total build time: 13.283s
+2022-03-31T16:39:06.408Z - info: Serving "D:\Teaching\CS2113\_AY2122S2\website\_site" at http://127.0.0.1:8080
+2022-03-31T16:39:06.409Z - info: Press CTRL+C to stop ...
+2022-03-31T16:39:15.169Z - info: Building D:\Teaching\CS2113\_AY2122S2\website\admin\teamList as some of its dependencies were changed since the last visit
+2022-03-31T16:39:15.736Z - info: Site data built
+2022-03-31T16:39:15.737Z - info: Lazy website regeneration complete! Total build time: 0.569s
+2022-03-31T16:39:49.525Z - info: Website generation started at 12:39:47 am
+2022-03-31T16:39:53.935Z - info: Building assets...

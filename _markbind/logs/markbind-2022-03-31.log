@@ -1,0 +1,131 @@
+2022-03-31T14:44:19.692Z - info: Website generation started at 10:44:12 pm
+2022-03-31T14:44:24.640Z - info: Building assets...
+2022-03-31T14:44:29.495Z - info: Assets built
+2022-03-31T14:44:29.496Z - info: Generating pages...
+2022-03-31T14:44:46.145Z - debug:  
+2022-03-31T14:44:46.145Z - debug:  
+2022-03-31T14:44:46.147Z - debug:  
+2022-03-31T14:44:46.148Z - debug:  
+2022-03-31T14:44:46.148Z - debug:  
+2022-03-31T14:44:46.306Z - debug:  
+2022-03-31T14:48:20.503Z - debug:  
+2022-03-31T14:48:38.775Z - debug:  
+2022-03-31T14:48:38.776Z - debug:  
+2022-03-31T14:48:44.394Z - info: Pages built
+2022-03-31T14:48:45.783Z - info: Site data built
+2022-03-31T14:48:45.784Z - info: Website generation complete! Total build time: 273.152s
+2022-03-31T14:48:46.704Z - info: Serving "D:\Teaching\CS2113\_AY2122S2\website\_site" at http://127.0.0.1:8080
+2022-03-31T14:48:46.704Z - info: Press CTRL+C to stop ...
+2022-03-31T14:50:12.968Z - info: [10:50:12 pm] Reload for file change: D:\Teaching\CS2113\_AY2122S2\website\admin\teamList.md
+2022-03-31T14:50:13.985Z - info: Rebuilding 1 pages
+2022-03-31T14:50:14.198Z - info: Site data built
+2022-03-31T14:50:14.199Z - info: Pages rebuilt
+2022-03-31T14:50:14.200Z - info: Website regeneration complete! Total build time: 0.218s
+2022-03-31T14:51:02.419Z - info: Website generation (lazy) started at 10:50:54 pm
+2022-03-31T14:51:06.957Z - info: Building assets...
+2022-03-31T14:51:13.804Z - info: Assets built
+2022-03-31T14:51:13.806Z - info: Generating landing page...
+2022-03-31T14:51:16.139Z - info: Landing page built, other pages will be built as you navigate to them!
+2022-03-31T14:51:16.946Z - info: Site data built
+2022-03-31T14:51:16.946Z - info: Website generation (lazy) complete! Total build time: 22.377s
+2022-03-31T14:51:17.798Z - info: Serving "D:\Teaching\CS2113\_AY2122S2\website\_site" at http://127.0.0.1:8080
+2022-03-31T14:51:17.801Z - info: Press CTRL+C to stop ...
+2022-03-31T14:51:30.515Z - info: Building D:\Teaching\CS2113\_AY2122S2\website\admin\teamList as some of its dependencies were changed since the last visit
+2022-03-31T14:51:30.736Z - info: Site data built
+2022-03-31T14:51:30.737Z - info: Lazy website regeneration complete! Total build time: 0.224s
+2022-03-31T15:25:45.890Z - info: Website generation (lazy) started at 11:25:43 pm
+2022-03-31T15:25:49.904Z - info: Building assets...
+2022-03-31T15:25:53.345Z - info: Assets built
+2022-03-31T15:25:53.346Z - info: Generating landing page...
+2022-03-31T15:25:54.094Z - error:  Template render error: (D:\Teaching\CS2113\_AY2122S2\website\admin\tp-w11.md)
+  Template render error: (D:\Teaching\CS2113\_AY2122S2\website\admin\tp-w11.md)
+  Template render error: (D:\Teaching\CS2113\_AY2122S2\website\admin\tp-w11.md)
+  Template render error: (D:\Teaching\CS2113\_AY2122S2\website\admin\tp-w11.md)
+  Template render error: (D:\Teaching\CS2113\_AY2122S2\website\admin\tp-w11.md)
+  Template render error: (D:\Teaching\CS2113\_AY2122S2\website\admin\tp-w11.md)
+  Template render error: (D:\Teaching\CS2113\_AY2122S2\website\admin\tp-w11.md)
+  Template render error: (D:\Teaching\CS2113\_AY2122S2\website\admin\tp-w11.md) [Line 58, Column 69]
+  Template render error: (D:\Teaching\CS2113\_AY2122S2\website\admin\tp-w11.md)
+  Template render error: (D:\Teaching\CS2113\_AY2122S2\website\admin\tp-w11.md)
+  Template render error: (D:\Teaching\CS2113\_AY2122S2\website\admin\tp-w11.md)
+  Template render error: (D:\Teaching\CS2113\_AY2122S2\website\admin\tp-w11.md)
+  Template render error: (D:\Teaching\CS2113\_AY2122S2\website\admin\tp-w11.md)
+  Template render error: (D:\Teaching\CS2113\_AY2122S2\website\admin\tp-w11.md)
+  Template render error: (D:\Teaching\CS2113\_AY2122S2\website\admin\tp-w11.md) [Line 604, Column 14]
+  Template render error: (D:\Teaching\CS2113\_AY2122S2\website\admin\tp-w11.md)
+  Template render error: (D:\Teaching\CS2113\_AY2122S2\website\admin\tp-w11.md)
+  Template render error: (D:\Teaching\CS2113\_AY2122S2\website\admin\tp-w11.md)
+  Template render error: (D:\Teaching\CS2113\_AY2122S2\website\admin\tp-w11.md)
+  Template render error: (D:\Teaching\CS2113\_AY2122S2\website\admin\tp-w11.md)
+  Template render error: (D:\Teaching\CS2113\_AY2122S2\website\admin\tp-w11.md) [Line 58, Column 69]
+  Template render error: (D:\Teaching\CS2113\_AY2122S2\website\admin\tp-w11.md)
+  Template render error: (D:\Teaching\CS2113\_AY2122S2\website\admin\tp-w11.md)
+  Template render error: (D:\Teaching\CS2113\_AY2122S2\website\admin\tp-w11.md)
+  Template render error: (D:\Teaching\CS2113\_AY2122S2\website\admin\tp-w11.md)
+  Template render error: (D:\Teaching\CS2113\_AY2122S2\website\admin\tp-w11.md)
+  Template render error: (D:\Teaching\CS2113\_AY2122S2\website\admin\tp-w11.md)
+  Template render error: (D:\Teaching\CS2113\_AY2122S2\website\admin\tp-w11.md)
+  Template render error: (D:\Teaching\CS2113\_AY2122S2\website\admin\tp-w11.md)
+  Template render error: (D:\Teaching\CS2113\_AY2122S2\website\admin\tp-w11.md)
+  Template render error: (D:\Teaching\CS2113\_AY2122S2\website\admin\tp-w11.md)
+  Template render error: (D:\Teaching\CS2113\_AY2122S2\website\admin\tp-w11.md)
+  Template render error: (D:\Teaching\CS2113\_AY2122S2\website\admin\tp-w11.md)
+  Template render error: (D:\Teaching\CS2113\_AY2122S2\website\admin\tp-w11.md)
+  Template render error: (D:\Teaching\CS2113\_AY2122S2\website\admin\tp-w11.md) [Line 58, Column 54]
+  Template render error: (D:\Teaching\CS2113\_AY2122S2\website\admin\tp-w11.md)
+  Template render error: (D:\Teaching\CS2113\_AY2122S2\website\admin\tp-w11.md)
+  Template render error: (D:\Teaching\CS2113\_AY2122S2\website\admin\tp-w11.md)
+  Template render error: (D:\Teaching\CS2113\_AY2122S2\website\admin\tp-w11.md) [Line 58, Column 69]
+  Template render error: (D:\Teaching\CS2113\_AY2122S2\website\admin\tp-w11.md)
+  Template render error: (D:\Teaching\CS2113\_AY2122S2\website\admin\tp-w11.md)
+  Template render error: (D:\Teaching\CS2113\_AY2122S2\website\admin\tp-w11.md)
+  Template render error: (D:\Teaching\CS2113\_AY2122S2\website\admin\tp-w11.md) [Line 101, Column 16]
+  parseAggregate: expected colon after dict key
+    at Object._prettifyError (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:36:11)
+    at C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:383:17
+    at Template.root [as rootRenderFunc] (eval at _compile (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\nunjucks\src\environment.js:631:18), <anonymous>:29:3)
+    at Template.render (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:372:8)
+    at C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:54:25
+    at createTemplate (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:121:7)
+    at handle (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:133:9)
+    at C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:145:7
+    at next (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:326:7)
+    at Object.asyncIter (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:332:3)
+    at Environment.getTemplate (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:127:7)
+    at Environment.render (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:48:8)
+    at VariableRenderer.renderFile (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableRenderer.js:59:20)
+    at VariableProcessor.renderWithSiteVariables (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableProcessor.js:157:53)
+    at VariableProcessor.renderIncludeFile (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableProcessor.js:256:34)
+    at processInclude (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\includePanelProcessor.js:206:25)
+2022-03-31T15:25:54.378Z - info: Landing page built, other pages will be built as you navigate to them!
+2022-03-31T15:25:55.464Z - info: Site data built
+2022-03-31T15:25:55.465Z - info: Website generation (lazy) complete! Total build time: 11.578s
+2022-03-31T15:25:56.220Z - info: Serving "D:\Teaching\CS2113\_AY2122S2\website\_site" at http://127.0.0.1:8080
+2022-03-31T15:25:56.220Z - info: Press CTRL+C to stop ...
+2022-03-31T15:26:52.527Z - info: [11:26:52 pm] Reload for file change: D:\Teaching\CS2113\_AY2122S2\website\_module-CS2113\studentData.mbdf
+2022-03-31T15:26:52.530Z - info: Synchronizing opened pages list before reload
+2022-03-31T15:26:52.532Z - info: Current opened pages, from most-to-least recent:
+2022-03-31T15:26:52.532Z - info: 1. index
+2022-03-31T15:26:53.551Z - info: Rebuilding 1 pages
+2022-03-31T15:26:54.637Z - info: Site data built
+2022-03-31T15:26:54.638Z - info: Pages rebuilt
+2022-03-31T15:26:54.638Z - info: Website regeneration complete! Total build time: 1.091s
+2022-03-31T15:27:11.348Z - info: Building D:\Teaching\CS2113\_AY2122S2\website\admin\teamList as some of its dependencies were changed since the last visit
+2022-03-31T15:27:11.667Z - info: Site data built
+2022-03-31T15:27:11.667Z - info: Lazy website regeneration complete! Total build time: 0.32s
+2022-03-31T15:27:37.958Z - info: [11:27:37 pm] Reload for file change: D:\Teaching\CS2113\_AY2122S2\website\admin\teamList.md
+2022-03-31T15:27:37.959Z - info: Synchronizing opened pages list before reload
+2022-03-31T15:27:37.959Z - info: Current opened pages, from most-to-least recent:
+2022-03-31T15:27:37.960Z - info: 1. admin/teamList
+2022-03-31T15:27:38.975Z - info: Rebuilding 1 pages
+2022-03-31T15:27:39.241Z - info: Site data built
+2022-03-31T15:27:39.242Z - info: Pages rebuilt
+2022-03-31T15:27:39.242Z - info: Website regeneration complete! Total build time: 0.27s
+2022-03-31T15:29:10.745Z - info: [11:29:10 pm] Reload for file change: D:\Teaching\CS2113\_AY2122S2\website\_module-CS2113\studentData.mbdf
+2022-03-31T15:29:10.745Z - info: Synchronizing opened pages list before reload
+2022-03-31T15:29:10.745Z - info: Current opened pages, from most-to-least recent:
+2022-03-31T15:29:10.746Z - info: 1. admin/teamList
+2022-03-31T15:29:11.772Z - info: Rebuilding 1 pages
+2022-03-31T15:29:11.965Z - info: Site data built
+2022-03-31T15:29:11.965Z - info: Pages rebuilt
+2022-03-31T15:29:11.966Z - info: Website regeneration complete! Total build time: 0.211s
